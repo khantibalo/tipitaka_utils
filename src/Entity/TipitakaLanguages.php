@@ -69,8 +69,5 @@ class TipitakaLanguages
         return $this;
     }
 
-    public function setLanguageid($languageid)
-    {
-        $this->languageid=$languageid;
-    }
+
 }

@@ -1,5 +1,5 @@
 <?php
-namespace src\Command;
+namespace App\Command;
 
 use App\Repository\TipitakaTocRepository;
 use Symfony\Component\Console\Command\Command;
